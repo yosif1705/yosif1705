@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning c and c++
 
-- 📫 How to reach me : email: yosif.taibi@gmail.com
+- 📫 How to reach me : email - yosif.taibi@gmail.com
 
 <!---
 yosif1705/yosif1705 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
