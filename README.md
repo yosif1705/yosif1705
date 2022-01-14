@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @yosif1705
 
-- 👀 I’m interested in game development and networking
-
 - 🌱 I’m currently learning java
 
 - 📫 How to reach me : email - yosif.taibi@gmail.com
